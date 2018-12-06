@@ -1,3 +1,3 @@
-class Scala (message: String) {
-    println("Scala: " + message)
+class Scala(message: String) {
+  println("Scala: " + message)
 }
